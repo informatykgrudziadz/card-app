@@ -1,3 +1,22 @@
 {
-    "homepage": "https://git.heroku.com/card-desc-app.git",
+  "name": "build",
+  "version": "1.0.0",
+  "description": "card-app",
+  "main": "precache-manifest.bc25c464130788777d331bc2e394e708.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/informatykgrudziadz/card-app.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Michał Krakus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/informatykgrudziadz/card-app/issues"
+  },
+  "homepage": "https://github.com/informatykgrudziadz/card-app#readme"
 }
